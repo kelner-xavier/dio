@@ -1,0 +1,6 @@
+Pilares do poensamento computacional:
+
+- Decomposição
+- Reconhecimento de padrões
+- Abstração
+- Design de Algoritmos
